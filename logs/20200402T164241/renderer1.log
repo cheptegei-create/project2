@@ -1,0 +1,2 @@
+[2020-04-02 16:43:45.069] [renderer1] [warning] UNRESPONSIVE extension host, 'ritwickdey.LiveServer' took 96% of 5884.319ms, saved PROFILE here: '/tmp/exthost-fb4bfe.cpuprofile' [{"id":"gc","total":24053,"percentage":0},{"id":"ritwickdey.LiveServer","total":5629228,"percentage":96},{"id":"self","total":230418,"percentage":4}]
+[2020-04-02 16:46:03.250] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.git' took 97% of 4747.139ms, saved PROFILE here: '/tmp/exthost-f352cb.cpuprofile' [{"id":"vscode.git","total":4584508,"percentage":97}]
